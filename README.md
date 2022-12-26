@@ -8,3 +8,8 @@ The Car evaluation dataset is a ready-made dataset from the UCI dataset reposito
 
 #### Naive Bayes
 <img src="https://github.com/mervekaratass/Car-evaluation-dataset-data-mining/blob/main/car_evaluation/images/naive bayes.png" width=700>
+
+#### Result
+<img src="https://github.com/mervekaratass/Car-evaluation-dataset-data-mining/blob/main/car_evaluation/images/performans.png" width=300>
+
+
